@@ -1,7 +1,7 @@
 import Foundation
 import OptimoveSDK
 
-@objc(OptimoveInitializer)
+@objc(OptimoveInitializerRN)
 public class OptimoveInitializer: NSObject {
 
     private static let sdkVersion = "3.0.0"
